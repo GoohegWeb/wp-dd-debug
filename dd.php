@@ -1,8 +1,8 @@
 <?php
 /*
- * Plugin Name: DD from Laravel
- * Plugin URI: http://www.gregduche.com
- * Description: The DD function for developers out of Laravel
+ * Plugin Name: WP DD Debug
+ * Plugin URI: https://github.com/GoohegWeb/wp-dd-debug/archive/master.zip
+ * Description: The DD debug function for developers out of Laravel
  * Version: 1.0.0
  * Author: Greg Duché
  * Author URI: http://www.gregduche.com
